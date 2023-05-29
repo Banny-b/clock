@@ -1,2 +1,2 @@
 # clock
-Wall Clock
+Digital clock
